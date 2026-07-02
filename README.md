@@ -13,6 +13,8 @@ a projection *from* it.
 > By day, the organism fits in a laptop; by night, its dreams go to
 > orbit — and come back weighing a few megabytes.
 
+![The seven layers of the concept](./seven-layers.svg)
+
 ## Documents
 
 - **[English edition](./afferent-operating-environment.md)** — the
