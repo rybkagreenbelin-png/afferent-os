@@ -7,12 +7,9 @@ any research programme; it lives on its own.
 by the author in seven successive iterations; the AI assistant acted
 as developer of the ideas, critic, and cartographer of the existing
 landscape (see Authorship note at the end).
-**Working titles:** Afferent OS / "the afferent operating
-environment." The name "Molecular OS" also came up in the dialogue —
-elegant, but it collides with the Molecular AI research programme;
-naming remains an open question.
-**Language:** English edition, translated from the Russian original
-(v0.3). In case of divergence, the original governs.
+**Name:** Afferent OS — "the afferent operating environment."
+**Language:** English edition, translated from the Russian original.
+In case of divergence, the original governs.
 
 ---
 
@@ -115,7 +112,17 @@ of the tools; the human as an observer who can always step in."*
   reliable the automation, the worse the supervisor. Hence: a plan
   approved before start, diffs instead of live video, mandatory
   confirmation on anything irreversible. Watching an agent move a
-  mouse is a sedative; reviewing its plan is work.
+  mouse is a sedative; reviewing its plan is work. All the more so
+  because in this system the agent does not drive a mouse at all: it
+  has no need to aim, hover, or pick from a menu — it addresses any
+  element of the scene directly and invokes it as needed. Motor
+  errors — misclicks, missed targets, races against a closing
+  dropdown — do not exist by construction; only intent can be wrong,
+  which is exactly why supervision shifts from the hands to the mind.
+  And when the human does need to *see* the agent's actions, they are
+  rendered into pixels as a separate projection — highlights, diffs,
+  a ghost pointer — on the observer's demand, not as the agent's
+  working channel.
 
 ### Layer 3. Inversion of control
 *"Do not embed AI into the system — the system itself is part of the
@@ -498,7 +505,7 @@ few megabytes.**
 
 ---
 
-*Concept document · July 2026 · v0.3 (English edition)*
+*Concept document · July 2026 · v0.4 (English edition)*
 *Translated from the Russian original; the original governs in case
 of divergence.*
 
