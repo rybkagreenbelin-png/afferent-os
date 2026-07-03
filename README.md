@@ -53,6 +53,13 @@ research programme (§7 of the concept).
 A concept document, not an implementation. Version 0.3. The English
 edition is a translation of the Russian original.
 
+## Related
+
+* [Molecular AI — research notes](https://github.com/rybkagreenbelin-png/molecular-ai-research-notes) —
+  the research programme this concept grew alongside: temporal
+  plasticity for a frozen brain; §7 of this note maps onto its
+  architectural decisions.
+
 ## License & authorship
 
 Licensed under [CC BY 4.0](./LICENSE). The document is a product of
