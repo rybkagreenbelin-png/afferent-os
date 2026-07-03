@@ -366,6 +366,21 @@ perception, however, remains call-based rather than afferent. The
 mirror direction also exists: SchedCP (2025) puts autonomous agents
 *inside* the OS, optimizing Linux schedulers through MCP.
 
+**The afferent seam in code.** The Python package *afferent* (PyPI,
+first release June 2026; repository "spinalcord") is the closest
+code-level neighbor by vocabulary: a backend-agnostic sensorimotor
+protocol — "eyes and hands" for agents driving a computer — with
+typed afferent calls going up (observe / locate / verify / read_text),
+efferent commands going down (click / type / key / scroll), and a
+SafetyGate that never gates the eyes but gates the hands: read-only
+by default, per-action confirm callbacks, rate limits, panic(). The
+convergence of vocabulary — down to the repository name — is
+independent evidence that the anatomical frame is in the air. The
+ontological difference runs exactly along Layer 4's line: on macOS
+its observe is a screencapture — perception assembled *from* the
+render, on demand. There, "afferent" names the direction of the
+channel; here, it names the nature of the signal.
+
 **Systems classics.** The capability line: seL4, Zircon/Fuchsia,
 Capsicum, pledge/unveil, Qubes OS; information flow: HiStar. The
 interface line: Smalltalk, Plan 9, NeWS, the DOM; game-engine ECS.
@@ -520,7 +535,7 @@ few megabytes.**
 
 ---
 
-*Concept document · July 2026 · v0.5 (English edition)*
+*Concept document · July 2026 · v0.6 (English edition)*
 *Translated from the Russian original; the original governs in case
 of divergence.*
 
