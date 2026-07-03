@@ -351,6 +351,21 @@ migration strategy in the most demanding class of software (games),
 and a lesson about residual blockers being political rather than
 technical.
 
+**The academic line of agent operating systems.** The AOS paper
+("Agent Operating Systems," arXiv:2606.01508, June 2026) is the
+systems-community rendering of Layers 1–2: an agentic control plane
+decomposed into schedulers, context and memory management, tool and
+capability registries, policy and trust enforcement, and
+observability, mapped onto Linux and Windows primitives — with no
+ontology of representation. AIOS (Rutgers, COLM 2025; the manifesto
+"LLM as OS, Agents as Apps," 2023) takes Layer 3 literally: an
+LLM-as-kernel with scheduling, context, memory, storage, tool and
+access modules, plus a semantic file system ("From Commands to
+Prompts," ICLR 2025) — kin of "a document is a view over meaning";
+perception, however, remains call-based rather than afferent. The
+mirror direction also exists: SchedCP (2025) puts autonomous agents
+*inside* the OS, optimizing Linux schedulers through MCP.
+
 **Systems classics.** The capability line: seL4, Zircon/Fuchsia,
 Capsicum, pledge/unveil, Qubes OS; information flow: HiStar. The
 interface line: Smalltalk, Plan 9, NeWS, the DOM; game-engine ECS.
@@ -505,7 +520,7 @@ few megabytes.**
 
 ---
 
-*Concept document · July 2026 · v0.4 (English edition)*
+*Concept document · July 2026 · v0.5 (English edition)*
 *Translated from the Russian original; the original governs in case
 of divergence.*
 

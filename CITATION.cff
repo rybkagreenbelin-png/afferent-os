@@ -4,7 +4,7 @@ title: "The Afferent Operating Environment"
 abstract: "A concept for an operating environment in which AI is not an application but the computer's nervous system: organs instead of interfaces, afferent perception instead of vision, and a shared scene of state with two renderers — pixels for the human, a stream for the model."
 authors:
   - name: "The Afferent OS author (pseudonymous)"
-version: "0.4"
+version: "0.5"
 date-released: 2026-07-03
 license: CC-BY-4.0
 url: "https://rybkagreenbelin-png.github.io/afferent-os/"
